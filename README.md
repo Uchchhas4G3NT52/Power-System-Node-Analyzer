@@ -1,6 +1,4 @@
 ```python
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write("""# Power System Node Analyzer
 
 A fast, memory-efficient command-line tool written in C for solving DC circuit nodal voltages. It utilizes Kirchhoff's Current Law (KCL) and Gauss-Jordan elimination to parse text-based circuit netlists and output exact voltage drops and current flows without rounding errors.
 
