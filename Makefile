@@ -6,7 +6,7 @@ CFLAGS = -Wall -Wextra -O2
 TARGET = analyzer
 
 # Find all C files in the src/ directory
-SRCS = src/main.c src/solver.c src/parser.c
+SRCS = main.c solver.c parser.c
 OBJS = $(SRCS:.c=.o)
 
 # Default build target
