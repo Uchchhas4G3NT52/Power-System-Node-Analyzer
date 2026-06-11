@@ -1,0 +1,10 @@
+power-node-analyzer/
+├── src/
+│   ├── main.c           # Entry point and CLI handling
+│   ├── parser.c         # Reads the input circuit data
+│   ├── solver.c         # Matrix math (Gauss-Jordan elimination)
+│   └── analyzer.h       # Struct definitions and function prototypes
+├── data/
+│   └── test_circuit.txt # Sample node data for testing
+├── Makefile             # For easy compilation
+└── README.md            # Project documentation
