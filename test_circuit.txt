@@ -1,0 +1,10 @@
+# Number of nodes (excluding reference node 0)
+NODES 3
+# Resistors: R <node1> <node2> <resistance_in_ohms>
+R 1 0 10.0
+R 1 2 5.0
+R 2 3 2.0
+R 3 0 4.0
+# Current Sources: I <node_in> <node_out> <current_in_amps>
+I 0 1 2.5
+I 2 3 1.0
