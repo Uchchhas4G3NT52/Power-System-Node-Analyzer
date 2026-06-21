@@ -1,4 +1,4 @@
-```python
+
 
 A fast, memory-efficient command-line tool written in C for solving DC circuit nodal voltages. It utilizes Kirchhoff's Current Law (KCL) and Gauss-Jordan elimination to parse text-based circuit netlists and output exact voltage drops and current flows without rounding errors.
 
