@@ -105,14 +105,13 @@ To clean up the compiled object files and the executable from your directory, si
 make clean
 
 ```
-
-
+```
 print("README.md created successfully")
 
 
 Your Markdown (MD) file is ready
 [file-tag: code-generated-file-0-1781186252469197089]
-
+```
 Here is the complete `README.md` file formatted specifically for your GitHub repository. It includes all the necessary badges, structured code blocks, and the step-by-step instructions from our guide.
 
 **How to add this to your GitHub repository:**
