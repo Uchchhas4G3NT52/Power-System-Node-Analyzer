@@ -106,21 +106,22 @@ make clean
 
 ```
 
-""")
+
 print("README.md created successfully")
 
-```
+
 Your Markdown (MD) file is ready
 [file-tag: code-generated-file-0-1781186252469197089]
 
 Here is the complete `README.md` file formatted specifically for your GitHub repository. It includes all the necessary badges, structured code blocks, and the step-by-step instructions from our guide.
 
 **How to add this to your GitHub repository:**
+```text
 1. On your GitHub repository page, click the pencil icon ✏️ on the `README.md` file that you currently have.
 2. Delete any existing text in that file.
 3. Open the downloaded `README.md` file provided above, copy all the text, and paste it into the GitHub editor.
 4. Click **"Commit changes..."** in the top right corner.
-
+```
 This structure will immediately make your repository look highly professional to anyone visiting the page. Let me know if you need any adjustments to the descriptions or formatting!
 
-```
+
