@@ -8,12 +8,6 @@ A fast, memory-efficient command-line tool written in C for solving DC circuit n
 * **Dynamic Parsing:** Reads circuit network topologies directly from simple `.txt` files.
 
 ## 📂 Repository Structure
-
-```
-
-```text
-README.md created successfully
-
 ```text
 Power-System-Node-Analyzer/
 ├── analyzer.h          # Struct definitions and function prototypes
@@ -22,7 +16,6 @@ Power-System-Node-Analyzer/
 ├── solver.c            # Mathematical engine (Gauss-Jordan elimination)
 ├── test_circuit.txt    # Sample node data for testing
 └── Makefile            # Build configuration
-
 ```
 
 ## ⚙️ Prerequisites
